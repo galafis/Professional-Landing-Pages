@@ -1,9 +1,58 @@
-# CSS/Web specific
-.DS_Store
-Thumbs.db
+# Logs
 *.log
+npm-debug.log*
+
+# Dependency directories
 node_modules/
-dist/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Thumbnails
+.thumbnails/
+
+# Build artifacts
 build/
-.cache/
-.parcel-cache/
+dist/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.localized
+
+# misc
+*.swp
+*.swo
+
+# GitHub Pages
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Python
+__pycache__/
+*.pyc
+.Python
+venv/
+.venv/
+
+# Other
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+
