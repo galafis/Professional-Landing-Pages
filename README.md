@@ -1,12 +1,6 @@
 
 # Professional-Landing-Pages
 
-[![GitHub license](https://img.shields.io/github/license/galafis/Professional-Landing-Pages?style=flat-square)](config/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/galafis/Professional-Landing-Pages?style=flat-square)](https://github.com/galafis/Professional-Landing-Pages/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/galafis/Professional-Landing-Pages?style=flat-square)](https://github.com/galafis/Professional-Landing-Pages/network/members)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://react.dev/)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)](https://vitejs.dev/)
 
 
 ![Hero Image Placeholder](assets/hero_image_placeholder.png)
