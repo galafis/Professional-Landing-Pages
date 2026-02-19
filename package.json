@@ -1,0 +1,41 @@
+{
+  "name": "professional-landing-pages",
+  "version": "1.0.0",
+  "description": "> Professional repository showcasing advanced development skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@": "*",
+    "@eslint": "*",
+    "@radix-ui": "*",
+    "@tailwindcss": "*",
+    "@testing-library": "*",
+    "@vitejs": "*",
+    "class-variance-authority": "*",
+    "clsx": "*",
+    "cmdk": "*",
+    "embla-carousel-react": "*",
+    "eslint-plugin-react-hooks": "*",
+    "eslint-plugin-react-refresh": "*",
+    "globals": "*",
+    "input-otp": "*",
+    "lucide-react": "*",
+    "next-themes": "*",
+    "react": "*",
+    "react-day-picker": "*",
+    "react-dom": "*",
+    "react-hook-form": "*",
+    "react-resizable-panels": "*",
+    "recharts": "*",
+    "sonner": "*",
+    "tailwind-merge": "*",
+    "vaul": "*",
+    "vitest": "*"
+  },
+  "devDependencies": {
+    "vite": "*"
+  }
+}
